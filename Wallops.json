@@ -1,53 +1,57 @@
 [
 {
-    "author": "Wigebox",
-    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Aurora Pulse.png",
-    "downloadable": false,
-    "name": "aurora pulse",
-    "collections": "The Gradios"
-  },
-  {
-    "author": "Wigebox",
-    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Cosmic Bloom.png",
-    "downloadable": false,
-    "name": "cosmic bloom",
-    "collections": "The Gradios"
-  },
-  {
-    "author": "Wigebox",
-    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Electric Abyss.png",
-    "downloadable": false,
-    "name": "electric abyss",
-    "collections": "The Gradios"
-  },
-  {
-    "author": "Wigebox",
-    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Midnight Pulse.png",
-    "downloadable": false,
-    "name": "midnight pulse",
-    "collections": "The Gradios"
-}
+"author": "Wigebox",
+"url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Aurora Pulse.png",
+"downloadable": false,
+"name": "Aurora Pulse",
+"collections": "The Gradios"
+},
 {
 "author": "Wigebox",
-"url": "https://purv06.github.io/Wallops.github.io/The Gradios/neon veil.png", "downloadable": "false",
+"url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Cosmic Bloom.png",
+"downloadable": false,
+"name": "Cosmic Bloom",
+"collections": "The Gradios"
+},
+{
+"author": "Wigebox",
+"url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Electric Abyss.png",
+"downloadable": false,
+"name": "Electric Abyss",
+"collections": "The Gradios"
+},
+{
+"author": "Wigebox",
+"url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Midnight Pulse.png",
+"downloadable": false,
+"name": "Midnight Pulse",
+"collections": "The Gradios"
+},
+{
+"author": "Wigebox",
+"url": "https://purv06.github.io/Wallops.github.io/The Gradios/neon veil.png", 
+"downloadable": "false",
 "name": "neon veil",
 "collections": "The Gradios"
 },
 {
 "author": "Wigebox",
-"url": "https://purv06.github.io/Wallops.github.io/The Gradios/violet flux.png", "downloadable": "false",
+"url": "https://purv06.github.io/Wallops.github.io/The Gradios/violet flux.png", 
+"downloadable": "false",
 "name": "violet flux",
 "collections": "The Gradios"
 },   
 {
 "author": "Wigebox",
-"url": "https://purv06.github.io/Wallops.github.io/The Gradios/vivid void.png", "downloadable": "false",
+"url": "https://purv06.github.io/Wallops.github.io/The Gradios/vivid void.png", 
+"downloadable": "false",
 "name": "vivid void",
 "collections": "The Gradios"
 },
 {
 "author": "Wigebox",
-"url": "https://purv06.github.io/Wallops.github.io/Oh Patterns/vanila hue.png", "downloadable": "false",
+"url": "https://purv06.github.io/Wallops.github.io/Oh Patterns/vanila hue.png", 
+"downloadable": "false",
 "name": "vanila hue",
 "collections": "Oh Patterns"
 },
