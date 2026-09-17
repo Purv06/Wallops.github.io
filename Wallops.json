@@ -1,5 +1,5 @@
 [
- {
+  {
     "author": "Wigebox",
     "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20black.png",
     "downloadable": false,
@@ -99,63 +99,63 @@
   },
   {
     "author": "Wigebox",
-    "url": "https://Purv06.github.io/Wallops.github.io/Pastel%20Dream/calm%20sun.png",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/calm%20sun.png",
     "downloadable": true,
     "name": "calm sun",
     "collections": "pastel dream"
   },
   {
     "author": "Wigebox",
-    "url": "https://Purv06.github.io/Wallops.github.io/Pastel%20Dream/clean%20milk.png",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/clean%20milk.png",
     "downloadable": true,
     "name": "clean milk",
     "collections": "pastel dream"
   },
   {
     "author": "Wigebox",
-    "url": "https://Purv06.github.io/Wallops.github.io/Pastel%20Dream/material%20fun.png",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/material%20fun.png",
     "downloadable": true,
     "name": "material fun",
     "collections": "pastel dream"
   },
   {
     "author": "Wigebox",
-    "url": "https://Purv06.github.io/Wallops.github.io/Pastel%20Dream/material%20purple.png",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/material%20purple.png",
     "downloadable": true,
     "name": "material purple",
     "collections": "pastel dream"
   },
   {
     "author": "Wigebox",
-    "url": "https://Purv06.github.io/Wallops.github.io/Pastel%20Dream/matio%20pixel.png",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/matio%20pixel.png",
     "downloadable": true,
     "name": "matio pixel",
     "collections": "pastel dream"
   },
   {
     "author": "Wigebox",
-    "url": "https://Purv06.github.io/Wallops.github.io/Pastel%20Dream/matt%20boy.png",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/matt%20boy.png",
     "downloadable": true,
     "name": "matt boy",
     "collections": "pastel dream"
   },
   {
     "author": "Wigebox",
-    "url": "https://Purv06.github.io/Wallops.github.io/Pastel%20Dream/puple%20extract.png",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/puple%20extract.png",
     "downloadable": true,
     "name": "puple extract",
     "collections": "pastel dream"
   },
   {
     "author": "Wigebox",
-    "url": "https://Purv06.github.io/Wallops.github.io/Pastel%20Dream/sky%20unlimited.png",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/sky%20unlimited.png",
     "downloadable": true,
     "name": "sky unlimited",
     "collections": "pastel dream"
   },
   {
     "author": "Wigebox",
-    "url": "https://Purv06.github.io/Wallops.github.io/Pastel%20Dream/rio%20de%2520capro.png",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/rio%20de%20capro.png",
     "downloadable": true,
     "name": "rio de capro",
     "collections": "pastel dream"
@@ -183,7 +183,7 @@
   },
   {
     "author": "Wigebox",
-    "url": "https://purv06.github.io/Wallops.github.io/The%2520Gradios/Midnight%20Pulse.png",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Midnight%20Pulse.png",
     "downloadable": false,
     "name": "Midnight Pulse",
     "collections": "The Gradios"
@@ -295,7 +295,1315 @@
   },
   {
     "author": "Wigebox",
-    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Cedar%20%26%20Clay.jpg",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Cedar%20&%20Clay.jpg",
+    "downloadable": false,
+    "name": "Cedar & Clay",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Cobalt%20Drift.jpg",
+    "downloadable": false,
+    "name": "Cobalt Drift",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Forest%20Mosaic.jpg",
+    "downloadable": false,
+    "name": "Forest Mosaic",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Golden%20Drift.png",
+    "downloadable": false,
+    "name": "Golden Drift",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Royal%20Strike.png",
+    "downloadable": false,
+    "name": "Royal Strike",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Azure%20Gold.jpg",
+    "downloadable": false,
+    "name": "Azure Gold",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Blackline%20Gold.jpg",
+    "downloadable": false,
+    "name": "Blackline Gold",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Border-Sea-Sun.png",
+    "downloadable": false,
+    "name": "Border-Sea-Sun",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Border-Sunny.png",
+    "downloadable": false,
+    "name": "Border-Sunny",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Neon%20Tide.png",
+    "downloadable": false,
+    "name": "Neon Tide",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Solar%20Dusk.png",
+    "downloadable": false,
+    "name": "Solar Dusk",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Velvet%20Bloom.png",
+    "downloadable": false,
+    "name": "Velvet Bloom",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Arctic%20Ember.png",
+    "downloadable": false,
+    "name": "Arctic Ember",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Creative%20Abstracts/Fractal-Circle-02.png",
+    "downloadable": false,
+    "name": "Fractal-Circle",
+    "collections": "Creative Abstracts"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Creative%20Abstracts/Fractal-Circle-04.png",
+    "downloadable": false,
+    "name": "Fractal-Circle",
+    "collections": "Creative Abstracts"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Creative%20Abstracts/Fractal-Circle-01.png",
+    "downloadable": false,
+    "name": "Fractal-Circle",
+    "collections": "Creative Abstracts"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/Candy%20Nebula.png",
+    "downloadable": false,
+    "name": "Candy Nebula",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/Coastal%20Pop.png",
+    "downloadable": false,
+    "name": "Coastal Pop",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/Deck-MB.png",
+    "downloadable": false,
+    "name": "Deck-MB",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_2.jpg",
+    "downloadable": false,
+    "name": "background_2",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_3.jpg",
+    "downloadable": false,
+    "name": "background_3",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_10.jpg",
+    "downloadable": false,
+    "name": "background_10",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_11.jpg",
+    "downloadable": false,
+    "name": "background_11",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_20.jpg",
+    "downloadable": false,
+    "name": "background_20",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_23.jpg",
+    "downloadable": false,
+    "name": "background_23",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/M6.png",
+    "downloadable": false,
+    "name": "M6",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/M7.png",
+    "downloadable": false,
+    "name": "M7",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/M8.png",
+    "downloadable": false,
+    "name": "M8",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Wavy%20Delight/day%20blend.jpg",
+    "downloadable": false,
+    "name": "day blend",
+    "collections": "Wavy Delight"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Wavy%20Delight/vanila%20blend.png",
+    "downloadable": false,
+    "name": "vanila blend",
+    "collections": "Wavy Delight"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Wavy%20Delight/zero%20vibe.png",
+    "downloadable": false,
+    "name": "zero vibe",
+    "collections": "Wavy Delight"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/dark%20beauty.jpg",
+    "downloadable": false,
+    "name": "dark beauty",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/pixel%20paradise.jpg",
+    "downloadable": false,
+    "name": "pixel paradise",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/unlimited%20fun.png",
+    "downloadable": false,
+    "name": "unlimited fun",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/Wavelength%20Dark.jpg",
+    "downloadable": false,
+    "name": "Wavelength Dark",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/Wavelength.jpg",
+    "downloadable": false,
+    "name": "Wavelength",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/color%20paper.png",
+    "downloadable": false,
+    "name": "color paper",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/crayon%20paper.png",
+    "downloadable": false,
+    "name": "crayon paper",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/pencil%20paper.png",
+    "downloadable": false,
+    "name": "pencil paper",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/birds%20of%20paradise%201.jpg",
+    "downloadable": false,
+    "name": "birds of paradise 1",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/birds%20of%20paradise%202.jpg",
+    "downloadable": false,
+    "name": "birds of paradise 2",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/birds%20of%20paradise%203.jpg",
+    "downloadable": false,
+    "name": "birds of paradise 3",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/birds%20of%20paradise%204.jpg",
+    "downloadable": false,
+    "name": "birds of paradise 4",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/birds%20of%20paradise%205.jpg",
+    "downloadable": false,
+    "name": "birds of paradise 5",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/blue%20bubble.png",
+    "downloadable": false,
+    "name": "blue bubble",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/material%20bubble.png",
+    "downloadable": false,
+    "name": "material bubble",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/matt%20bubble.png",
+    "downloadable": false,
+    "name": "matt bubble",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Minimos/color%20scapes.png",
+    "downloadable": false,
+    "name": "color scapes",
+    "collections": "Minimos"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Minimos/cute%20target.png",
+    "downloadable": false,
+    "name": "cute target",
+    "collections": "Minimos"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Minimos/moonly%20night.png",
+    "downloadable": false,
+    "name": "moonly night",
+    "collections": "Minimos"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Minimos/rocky%20paradise.png",
+    "downloadable": false,
+    "name": "rocky paradise",
+    "collections": "Minimos"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Minimos/sikuma[
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20black.png",
+    "downloadable": false,
+    "name": "cubic black",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20blue.png",
+    "downloadable": false,
+    "name": "cubic blue",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20chrome.png",
+    "downloadable": false,
+    "name": "cubic chrome",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20green.png",
+    "downloadable": false,
+    "name": "cubic green",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20orange.png",
+    "downloadable": false,
+    "name": "cubic orange",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/dark%20pixel.png",
+    "downloadable": false,
+    "name": "dark pixel",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/dot%20fantasy%20light.png",
+    "downloadable": false,
+    "name": "dot fantasy light",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/dot%20fantasy%20orange.png",
+    "downloadable": false,
+    "name": "dot fantasy orange",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/dot%20fantasy.png",
+    "downloadable": false,
+    "name": "dot fantasy",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/dot%20matrix.png",
+    "downloadable": false,
+    "name": "dot matrix",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/neo%20joe.png",
+    "downloadable": false,
+    "name": "neo joe",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/pastel%20blobs.png",
+    "downloadable": false,
+    "name": "pastel blobs",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/pixel%20fantasy.png",
+    "downloadable": false,
+    "name": "pixel fantasy",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/pixel%20inspired.png",
+    "downloadable": false,
+    "name": "pixel inspired",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/calm%20sun.png",
+    "downloadable": true,
+    "name": "calm sun",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/clean%20milk.png",
+    "downloadable": true,
+    "name": "clean milk",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/material%20fun.png",
+    "downloadable": true,
+    "name": "material fun",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/material%20purple.png",
+    "downloadable": true,
+    "name": "material purple",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/matio%20pixel.png",
+    "downloadable": true,
+    "name": "matio pixel",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/matt%20boy.png",
+    "downloadable": true,
+    "name": "matt boy",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/puple%20extract.png",
+    "downloadable": true,
+    "name": "puple extract",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/sky%20unlimited.png",
+    "downloadable": true,
+    "name": "sky unlimited",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/rio%20de%20capro.png",
+    "downloadable": true,
+    "name": "rio de capro",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Aurora%20Pulse.png",
+    "downloadable": false,
+    "name": "Aurora Pulse",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Cosmic%20Bloom.png",
+    "downloadable": false,
+    "name": "Cosmic Bloom",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Electric%20Abyss.png",
+    "downloadable": false,
+    "name": "Electric Abyss",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Midnight%20Pulse.png",
+    "downloadable": false,
+    "name": "Midnight Pulse",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Neon%20Veil.png",
+    "downloadable": false,
+    "name": "Neon Veil",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Violet%20Flux.png",
+    "downloadable": false,
+    "name": "Violet Flux",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Vivid%20Void.png",
+    "downloadable": false,
+    "name": "Vivid Void",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/vanila%20hue.png",
+    "downloadable": false,
+    "name": "vanila hue",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/white%20beauty.png",
+    "downloadable": false,
+    "name": "white beauty",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Coffee%20Cream.png",
+    "downloadable": false,
+    "name": "Coffee Cream",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Emerald%20Gold.png",
+    "downloadable": false,
+    "name": "Emerald Gold",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Forest%20Autumn.png",
+    "downloadable": false,
+    "name": "Forest Autumn",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Nordic%20Gray.png",
+    "downloadable": false,
+    "name": "Nordic Gray",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Ocean%20Mint.png",
+    "downloadable": false,
+    "name": "Ocean Mint",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/orange%20burst.png",
+    "downloadable": false,
+    "name": "orange burst",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Royal%20majestic.png",
+    "downloadable": false,
+    "name": "Royal majestic",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Royal%20Purple.png",
+    "downloadable": false,
+    "name": "Royal Purple",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Sunset%20Coral.png",
+    "downloadable": false,
+    "name": "Sunset Coral",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Blue%20Velocity.png",
+    "downloadable": false,
+    "name": "Blue Velocity",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Cedar%20&%20Clay.jpg",
+    "downloadable": false,
+    "name": "Cedar & Clay",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Cobalt%20Drift.jpg",
+    "downloadable": false,
+    "name": "Cobalt Drift",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Forest%20Mosaic.jpg",
+    "downloadable": false,
+    "name": "Forest Mosaic",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Golden%20Drift.png",
+    "downloadable": false,
+    "name": "Golden Drift",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Royal%20Strike.png",
+    "downloadable": false,
+    "name": "Royal Strike",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Azure%20Gold.jpg",
+    "downloadable": false,
+    "name": "Azure Gold",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Blackline%20Gold.jpg",
+    "downloadable": false,
+    "name": "Blackline Gold",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Border-Sea-Sun.png",
+    "downloadable": false,
+    "name": "Border-Sea-Sun",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Border-Sunny.png",
+    "downloadable": false,
+    "name": "Border-Sunny",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Neon%20Tide.png",
+    "downloadable": false,
+    "name": "Neon Tide",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Solar%20Dusk.png",
+    "downloadable": false,
+    "name": "Solar Dusk",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Velvet%20Bloom.png",
+    "downloadable": false,
+    "name": "Velvet Bloom",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Arctic%20Ember.png",
+    "downloadable": false,
+    "name": "Arctic Ember",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Creative%20Abstracts/Fractal-Circle-02.png",
+    "downloadable": false,
+    "name": "Fractal-Circle",
+    "collections": "Creative Abstracts"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Creative%20Abstracts/Fractal-Circle-04.png",
+    "downloadable": false,
+    "name": "Fractal-Circle",
+    "collections": "Creative Abstracts"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Creative%20Abstracts/Fractal-Circle-01.png",
+    "downloadable": false,
+    "name": "Fractal-Circle",
+    "collections": "Creative Abstracts"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/Candy%20Nebula.png",
+    "downloadable": false,
+    "name": "Candy Nebula",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/Coastal%20Pop.png",
+    "downloadable": false,
+    "name": "Coastal Pop",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/Deck-MB.png",
+    "downloadable": false,
+    "name": "Deck-MB",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_2.jpg",
+    "downloadable": false,
+    "name": "background_2",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_3.jpg",
+    "downloadable": false,
+    "name": "background_3",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_10.jpg",
+    "downloadable": false,
+    "name": "background_10",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_11.jpg",
+    "downloadable": false,
+    "name": "background_11",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_20.jpg",
+    "downloadable": false,
+    "name": "background_20",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/background_23.jpg",
+    "downloadable": false,
+    "name": "background_23",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/M6.png",
+    "downloadable": false,
+    "name": "M6",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/M7.png",
+    "downloadable": false,
+    "name": "M7",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/M8.png",
+    "downloadable": false,
+    "name": "M8",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Wavy%20Delight/day%20blend.jpg",
+    "downloadable": false,
+    "name": "day blend",
+    "collections": "Wavy Delight"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Wavy%20Delight/vanila%20blend.png",
+    "downloadable": false,
+    "name": "vanila blend",
+    "collections": "Wavy Delight"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Wavy%20Delight/zero%20vibe.png",
+    "downloadable": false,
+    "name": "zero vibe",
+    "collections": "Wavy Delight"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/dark%20beauty.jpg",
+    "downloadable": false,
+    "name": "dark beauty",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/pixel%20paradise.jpg",
+    "downloadable": false,
+    "name": "pixel paradise",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/unlimited%20fun.png",
+    "downloadable": false,
+    "name": "unlimited fun",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/Wavelength%20Dark.jpg",
+    "downloadable": false,
+    "name": "Wavelength Dark",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/Wavelength.jpg",
+    "downloadable": false,
+    "name": "Wavelength",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/color%20paper.png",
+    "downloadable": false,
+    "name": "color paper",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/crayon%20paper.png",
+    "downloadable": false,
+    "name": "crayon paper",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/pencil%20paper.png",
+    "downloadable": false,
+    "name": "pencil paper",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/birds%20of%20paradise%201.jpg",
+    "downloadable": false,
+    "name": "birds of paradise 1",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/birds%20of%20paradise%202.jpg",
+    "downloadable": false,
+    "name": "birds of paradise 2",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/birds%20of%20paradise%203.jpg",
+    "downloadable": false,
+    "name": "birds of paradise 3",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/birds%20of%20paradise%204.jpg",
+    "downloadable": false,
+    "name": "birds of paradise 4",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/birds%20of%20paradise%205.jpg",
+    "downloadable": false,
+    "name": "birds of paradise 5",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/blue%20bubble.png",
+    "downloadable": false,
+    "name": "blue bubble",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/material%20bubble.png",
+    "downloadable": false,
+    "name": "material bubble",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/matt%20bubble.png",
+    "downloadable": false,
+    "name": "matt bubble",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Minimos/color%20scapes.png",
+    "downloadable": false,
+    "name": "color scapes",
+    "collections": "Minimos"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Minimos/cute%20target.png",
+    "downloadable": false,
+    "name": "cute target",
+    "collections": "Minimos"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Minimos/moonly%20night.png",
+    "downloadable": false,
+    "name": "moonly night",
+    "collections": "Minimos"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Minimos/rocky%20paradise.png",
+    "downloadable": false,
+    "name": "rocky paradise",
+    "collections": "Minimos"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Minimos/sikuma[
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20black.png",
+    "downloadable": false,
+    "name": "cubic black",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20blue.png",
+    "downloadable": false,
+    "name": "cubic blue",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20chrome.png",
+    "downloadable": false,
+    "name": "cubic chrome",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20green.png",
+    "downloadable": false,
+    "name": "cubic green",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/cubic%20orange.png",
+    "downloadable": false,
+    "name": "cubic orange",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/dark%20pixel.png",
+    "downloadable": false,
+    "name": "dark pixel",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/dot%20fantasy%20light.png",
+    "downloadable": false,
+    "name": "dot fantasy light",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/dot%20fantasy%20orange.png",
+    "downloadable": false,
+    "name": "dot fantasy orange",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/dot%20fantasy.png",
+    "downloadable": false,
+    "name": "dot fantasy",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/dot%20matrix.png",
+    "downloadable": false,
+    "name": "dot matrix",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/neo%20joe.png",
+    "downloadable": false,
+    "name": "neo joe",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/pastel%20blobs.png",
+    "downloadable": false,
+    "name": "pastel blobs",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/pixel%20fantasy.png",
+    "downloadable": false,
+    "name": "pixel fantasy",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Color%20Pops/pixel%20inspired.png",
+    "downloadable": false,
+    "name": "pixel inspired",
+    "collections": "Color Pops"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/calm%20sun.png",
+    "downloadable": true,
+    "name": "calm sun",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/clean%20milk.png",
+    "downloadable": true,
+    "name": "clean milk",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/material%20fun.png",
+    "downloadable": true,
+    "name": "material fun",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/material%20purple.png",
+    "downloadable": true,
+    "name": "material purple",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/matio%20pixel.png",
+    "downloadable": true,
+    "name": "matio pixel",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/matt%20boy.png",
+    "downloadable": true,
+    "name": "matt boy",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/puple%20extract.png",
+    "downloadable": true,
+    "name": "puple extract",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/sky%20unlimited.png",
+    "downloadable": true,
+    "name": "sky unlimited",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Pastel%20Dream/rio%20de%20capro.png",
+    "downloadable": true,
+    "name": "rio de capro",
+    "collections": "pastel dream"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Aurora%20Pulse.png",
+    "downloadable": false,
+    "name": "Aurora Pulse",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Cosmic%20Bloom.png",
+    "downloadable": false,
+    "name": "Cosmic Bloom",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Electric%20Abyss.png",
+    "downloadable": false,
+    "name": "Electric Abyss",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Midnight%20Pulse.png",
+    "downloadable": false,
+    "name": "Midnight Pulse",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Neon%20Veil.png",
+    "downloadable": false,
+    "name": "Neon Veil",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Violet%20Flux.png",
+    "downloadable": false,
+    "name": "Violet Flux",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/The%20Gradios/Vivid%20Void.png",
+    "downloadable": false,
+    "name": "Vivid Void",
+    "collections": "The Gradios"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/vanila%20hue.png",
+    "downloadable": false,
+    "name": "vanila hue",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/white%20beauty.png",
+    "downloadable": false,
+    "name": "white beauty",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Coffee%20Cream.png",
+    "downloadable": false,
+    "name": "Coffee Cream",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Emerald%20Gold.png",
+    "downloadable": false,
+    "name": "Emerald Gold",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Forest%20Autumn.png",
+    "downloadable": false,
+    "name": "Forest Autumn",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Nordic%20Gray.png",
+    "downloadable": false,
+    "name": "Nordic Gray",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Ocean%20Mint.png",
+    "downloadable": false,
+    "name": "Ocean Mint",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/orange%20burst.png",
+    "downloadable": false,
+    "name": "orange burst",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Royal%20majestic.png",
+    "downloadable": false,
+    "name": "Royal majestic",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Royal%20Purple.png",
+    "downloadable": false,
+    "name": "Royal Purple",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Oh%20Patterns/Sunset%20Coral.png",
+    "downloadable": false,
+    "name": "Sunset Coral",
+    "collections": "Oh Patterns"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Blue%20Velocity.png",
+    "downloadable": false,
+    "name": "Blue Velocity",
+    "collections": "Geometric Vibes"
+  },
+  {
+    "author": "Wigebox",
+    "url": "https://purv06.github.io/Wallops.github.io/Geometric%20Vibes/Cedar%20&%20Clay.jpg",
     "downloadable": false,
     "name": "Cedar & Clay",
     "collections": "Geometric Vibes"
